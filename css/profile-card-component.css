@@ -34,7 +34,7 @@ body {
 
 #image img {
    position: absolute;
-   top: 40%;
+   top: 38%;
    left: 50%;
    transform: translate(-50%, -50%);
    border: 5px solid white;
@@ -62,10 +62,10 @@ body {
 }
 #social{
    position: absolute;
-   top: 85%;
+   top: 86%;
    left: 50%;
    transform: translate(-50%, -50%);
-   width: 100%;
+   width: 90%;
    
 }
 #social table{
