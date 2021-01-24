@@ -82,6 +82,7 @@ body {
    bottom: 1%;
    right: 1%;
    text-align: right;
+	color: white;
 }
 
 @media only screen and (max-width:376px) {
